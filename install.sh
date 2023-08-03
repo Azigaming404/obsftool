@@ -2,8 +2,8 @@
 echo "Installing package"
 
 apt update && pkg upgrade -y
-apt-get install nodejs
-pkg install ruby
-gem install lolcat
+apt-get install nodejs -y
+pkg install ruby -y 
+gem install lolcat -y
 npm install -g bash-obfuscate
 wget https://raw.githubusercontent.com/Azigaming404/obsftool/main/enkripcyber.sh

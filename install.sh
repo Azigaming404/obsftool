@@ -3,6 +3,7 @@ echo "Installing package"
 
 apt update && pkg upgrade -y
 apt-get install nodejs -y
+apt-get install npm
 pkg install ruby -y 
 gem install lolcat -y
 npm install -g bash-obfuscate

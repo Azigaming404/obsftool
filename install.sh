@@ -7,3 +7,4 @@ pkg install ruby -y
 gem install lolcat -y
 npm install -g bash-obfuscate
 wget https://raw.githubusercontent.com/Azigaming404/obsftool/main/enkripcyber.sh
+rm install.sh
